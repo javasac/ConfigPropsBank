@@ -2,7 +2,7 @@ build:
   version: "2.5"
 
 cards:
-  message: "Welcome to Production Bank Cards related to locals APIs."
+  message: "Welcome to PROD Bank Cards related to locals APIs."
   contactDetails:
     name: "Sachin Kansal - Principal Software Engineer"
     email: "Sachin12Kansal@gmail.com"
