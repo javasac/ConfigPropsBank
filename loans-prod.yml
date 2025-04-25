@@ -2,7 +2,7 @@ build:
   version: "1.5"
 
 loans:
-  message: "Welcome to PROD Bank Loans related to locals APIs."
+  message: "Welcome to SK-PRODUCTION Bank Loans related to locals APIs."
   contactDetails:
     name: "Sachin Kansal - Principal Software Engineer"
     email: "Sachin12Kansal@gmail.com"
